@@ -1,9 +1,11 @@
 [package]
 name = "cqrs-framework"
 version = "0.1.0"
-description = "A Rust library for Cqrs Framework"
+description = "Cqrs Framework — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/cqrs-framework"
+repository = "https://github.com/SuperInstance/cqrs-framework"
 edition = "2021"
+
+keywords = ["cqrs-framework"]
 
 [dependencies]
